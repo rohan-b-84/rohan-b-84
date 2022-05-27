@@ -2,6 +2,8 @@
 
 #### I'm Rohan Barsagade, a budding Front-end Web Developer 
 
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-b-84&count_private=true&show_icons=true&theme=cobalt)
+
 ##### BIO
 
 - 🏢 I'm currently studying at **IIT Kharagpur**
